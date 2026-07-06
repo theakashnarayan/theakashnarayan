@@ -26,7 +26,7 @@ Self-taught in code since age 13, my work spans **legal technology, artificial i
 - 🔭 Currently building the **Legal Operating System** at Legalit
 - 🌱 Seed investor in **sovereign-AI** startup Ayen (LLMs, multimodal, IDE, search)
 - 📄 Published researcher — *[GUIs → Agentic API Ecosystems](https://akashnarayan.com/paradigm-shift.html)* (DOI: [10.14293/PR2199.002462.v1](https://doi.org/10.14293/PR2199.002462.v1))
-- ✍️ Co-author of *Chaos to Calm* (2026) · 🎬 Director of *D Love* (2026)
+- 🎬 Director of *D Love* (2026)
 - 🗣️ I speak 8 languages · ✈️ Recreational pilot · 💬 Ask me about legal-tech, AI & startups
 
 ---
